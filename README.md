@@ -14,9 +14,19 @@ Este foi o meu primeiro contato prático com a ferramenta.
 Neste segundo projeto, busquei evoluir um pouco mais as visualizações.
 * **O que fiz neste projeto:** Busquei trazer mais padronização e utilizar melhor a ferramenta de "botões". Deixei cada tópico mais dividido, tornando o visual mais organizado e de melhor visualização. Procurei criar filtros de pesquisa que se encaixassem melhor na proposta, sempre enfatizando os valores para um bom controle e visualização dos gastos.
 
+### 3. BI - AULA 1 # Dashboard de Vendas
+Este projeto consistiu na criação de um dashboard de vendas completo partindo do absoluto zero.
+* **O que fiz neste projeto:** Aprendi a realizar todo o processo de ETL (Extração, Transformação e Carga) utilizando o Power Query, onde fiz a limpeza de dados nulos, tratamentos de texto para nomes de clientes e divisão de colunas de localização. Também criei colunas calculadas para o faturamento e desenvolvi visuais dinâmicos como cartões de KPI (com filtros de top produtos), gráficos de linhas/colunas para análises temporais e mapas interativos para distribuição geográfica das vendas.
+
+### 3. BI - AULA 2 # Dashboard de Produção
+Neste projeto, busquei elevar o nível das análises desenvolvendo um dashboard focado em controle de produtividade e eficiência industrial.
+* **O que fiz neste projeto:** Aprendi a trabalhar com funções DAX para criar cálculos dinâmicos, como total de horas produtivas, eficiência de produção e índice de refugo. No Power Query, realizei a modelagem dos dados unindo tabelas de metas e relatórios de turnos. Desenvolvi um design de interface focado na experiência do usuário, utilizando formatação condicional (gráficos estilo velocímetro) para indicar se as metas foram atingidas, além de implementar segmentadores e botões interativos para filtrar as métricas por operador e mês de forma ágil.
+
 ---
 
 ## 🛠️ O que utilizei
 * **Power BI Desktop** para montar os gráficos e os relatórios.
+* **Power Query** para a extração, limpeza e modelagem dos dados.
+* **Fórmulas DAX** para a criação de métricas calculadas e indicadores de desempenho.
 * **Figma** para montar o design dos fundos (backgrounds).
 * Dados vindos de planilhas do Excel **(com valores fictícios)**.
